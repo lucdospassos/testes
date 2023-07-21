@@ -44,7 +44,7 @@ Portanto, com o Programa Conversor de Moedas e Medidas, você tem acesso a uma f
 
 A seguir, algumas imagens do programa em execução:
 
-1. ![Conversor de Moeda 1](/img/imgConversorMoeda2.png)
+1. ![Conversor de Moeda 1](img/imgConversorMoeda2.png)
 2. ![Conversor de Moeda 2](img/imgConversorMoeda3.png)
 3. ![Conversor de Medida 1](img/imgConversorMedida2.png)
 4. ![Conversor de Medida 2](img/imgConversorMedida3.png)
